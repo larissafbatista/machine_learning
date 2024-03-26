@@ -1,1 +1,2 @@
-# machine_learning
+## machine_learning
+Primeiros estudos em machine learning.
